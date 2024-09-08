@@ -13,6 +13,8 @@ Hi! Ivan Andre Scheel AKA necromeo
 
 I'm a backend developer from 🇩🇪 based in 🇦🇷
 
+[Full resume](https://necromeo.github.io/)
+
 ### 📖 Technologies I'm familiar with
 
 #### Languages
@@ -87,7 +89,7 @@ I'm a backend developer from 🇩🇪 based in 🇦🇷
 
 ### 🥷🏻 Encryption
 
-- Public personal [Age](https://github.com/FiloSottile/age) key: age153jrsw9wnn0y6zyn594xu4mwlpczx856ljd6u6nkfakku0ejxcgqe4srkw
+- Public personal [age](https://github.com/FiloSottile/age) key: age153jrsw9wnn0y6zyn594xu4mwlpczx856ljd6u6nkfakku0ejxcgqe4srkw
 - Public personal GPG key: 293F6B336B9C5877E88674610F945E015DAE598A
 
 ---
