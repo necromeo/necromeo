@@ -90,7 +90,8 @@ I'm a backend developer from 🇩🇪 based in 🇦🇷
 ### 🥷🏻 Encryption
 
 - Public personal [age](https://github.com/FiloSottile/age) key: age153jrsw9wnn0y6zyn594xu4mwlpczx856ljd6u6nkfakku0ejxcgqe4srkw
-- Public personal GPG key: 293F6B336B9C5877E88674610F945E015DAE598A
+- Public personal GPG key fingerprint: 293F6B336B9C5877E88674610F945E015DAE598A
+- Public Github SSH key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAA8LdFpryNoDbJzGpRiZaRPHQrV0zHcVVzUeHq3lbtZ
 
 ---
 
